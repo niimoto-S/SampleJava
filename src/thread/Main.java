@@ -24,6 +24,5 @@ public class Main {
 		System.out.println("--------------------------+");
 		t2.printList();
 		System.out.println("--------------------------+");
-
 	}
 }
